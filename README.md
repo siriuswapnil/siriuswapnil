@@ -37,6 +37,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://siriuswapnil.github.io"><img src="https://img.shields.io/badge/Visit-Website-white"/></a>
 <a href="https://linkedin.com/in/swapnil-sinha"><img src="https://img.shields.io/badge/-Swapnil%20Sinha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:swapnilsinha04@gmail.com"><img src="https://img.shields.io/badge/-swapnilsinha04@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
