@@ -2,16 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Birla Institute of Technology, India.\
-🌱 &nbsp;I'm on track for learning more about Privacy in Machine Learning and its applications.\
-✍️ &nbsp;In my free time, I develop web applications and work on my blog .\
+🎓 &nbsp;2022 graduate in Computer Science and Engineering at Birla Institute of Technology, India.\
+🌱 &nbsp;I'm a software engineer at Tilt (YC W21), where I mostly work on backend products.\
 ✉️ &nbsp;You can shoot me an email at swapnilsinha04@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
